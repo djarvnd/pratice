@@ -1,0 +1,7 @@
+Docker, Issues. 
+ How do I edit a file after I shell to a Docker container?  root@69f1711a205e:/# vim
+bash: vim: command not found
+need to install vim, apt-get update 
+apt-get install vim
+try to run food website using docker container
+a
